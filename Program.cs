@@ -57,7 +57,7 @@ namespace ConsoleApp1
             Fighter f1 = new Fighter("Julia", 51, 17);
             Fighter f2 = new Fighter("Helen", 50, 17);
             WhoWinner(f1, f2);
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
